@@ -8,7 +8,7 @@ var expressJwt = require('express-jwt');
 var jwtSecret = 'fjkdlsajfoew239053/3uk';
 
 var user = {
-  username: 'kentcdodds',
+  username: 'u',
   password: 'p'
 };
 
